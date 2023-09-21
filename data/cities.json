@@ -1,0 +1,171 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": 73930385
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": 98443197
+    },
+    {
+      "cityName": "Humphrey",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": 98443199
+    },
+    {
+      "cityName": "Alija del Infantado",
+      "emoji": "🇪🇸",
+      "date": "2023-09-13T00:44:37.066Z",
+      "notes": "",
+      "position": {
+        "lat": "42.14873138734122",
+        "lng": "-5.800781250000001"
+      },
+      "id": 98443200
+    },
+    {
+      "cityName": "Plounevez-Quintin",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2023-09-13T00:48:33.073Z",
+      "notes": "",
+      "position": {
+        "lat": "48.254605798815255",
+        "lng": "-3.2464247573934606"
+      },
+      "id": 98443202
+    },
+    {
+      "cityName": "Swindon",
+      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+      "emoji": "🇬🇧",
+      "date": "2023-09-13T00:51:03.786Z",
+      "notes": "",
+      "position": {
+        "lat": "51.55019383606052",
+        "lng": "-1.8178021766783161"
+      },
+      "id": 98443204
+    },
+    {
+      "cityName": "Swindon",
+      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+      "emoji": "🇬🇧",
+      "date": "2023-09-13T00:51:03.786Z",
+      "notes": "",
+      "position": {
+        "lat": "51.55019383606052",
+        "lng": "-1.8178021766783161"
+      },
+      "id": 98443205
+    },
+    {
+      "cityName": "Swindon",
+      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+      "emoji": "🇬🇧",
+      "date": "2023-09-13T00:51:03.786Z",
+      "notes": "",
+      "position": {
+        "lat": "51.55019383606052",
+        "lng": "-1.8178021766783161"
+      },
+      "id": 98443206
+    },
+    {
+      "cityName": "Swindon",
+      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+      "emoji": "🇬🇧",
+      "date": "2023-09-13T00:51:03.786Z",
+      "notes": "",
+      "position": {
+        "lat": "51.55019383606052",
+        "lng": "-1.8178021766783161"
+      },
+      "id": 98443207
+    },
+    {
+      "cityName": "Swindon",
+      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+      "emoji": "🇬🇧",
+      "date": "2023-09-13T00:51:03.786Z",
+      "notes": "",
+      "position": {
+        "lat": "51.55019383606052",
+        "lng": "-1.8178021766783161"
+      },
+      "id": 98443208
+    },
+    {
+      "cityName": "Swindon",
+      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+      "emoji": "🇬🇧",
+      "date": "2023-09-13T00:51:03.786Z",
+      "notes": "",
+      "position": {
+        "lat": "51.55019383606052",
+        "lng": "-1.8178021766783161"
+      },
+      "id": 98443209
+    },
+    {
+      "cityName": "Barnsley",
+      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+      "emoji": "🇬🇧",
+      "date": "2023-09-13T00:52:43.834Z",
+      "notes": "",
+      "position": {
+        "lat": "53.55409934292469",
+        "lng": "-1.533380943792302"
+      },
+      "id": 98443210
+    },
+    {
+      "cityName": "Bruiu",
+      "country": "Romania",
+      "emoji": "🇷🇴",
+      "date": "2023-09-13T00:53:10.520Z",
+      "notes": "",
+      "position": {
+        "lat": "45.87527223364841",
+        "lng": "24.63134765625"
+      },
+      "id": 98443211
+    },
+    {
+      "cityName": "Gyomaendrod",
+      "country": "Hungary",
+      "emoji": "🇭🇺",
+      "date": "2023-09-13T00:53:42.652Z",
+      "notes": "",
+      "position": {
+        "lat": "46.86066055736549",
+        "lng": "20.829793562702676"
+      },
+      "id": 98443212
+    }
+  ]
+}
